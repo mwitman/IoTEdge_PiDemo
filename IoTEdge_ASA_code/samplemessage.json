@@ -1,0 +1,36 @@
+[
+{
+    "body": {
+      "machine": {
+        "temperature": 109.71245688559138,
+        "pressure": 11.10648243000408
+      },
+      "ambient": {
+        "temperature": 20.527951749986016,
+        "humidity": 25
+      },
+      "timeCreated": "2019-03-13T13:10:28.7841224Z"
+    },
+    "applicationProperties": {
+      "sequenceNumber": "499",
+      "batchId": "abbe09bc-8b1d-4516-94aa-5f5872c79190"
+    }
+},
+{
+    "body": {
+      "machine": {
+        "temperature": 10.71245688559138,
+        "pressure": 11.10648243000408
+      },
+      "ambient": {
+        "temperature": 20.527951749986016,
+        "humidity": 25
+      },
+      "timeCreated": "2019-03-13T13:10:28.7841224Z"
+    },
+    "applicationProperties": {
+      "sequenceNumber": "499",
+      "batchId": "abbe09bc-8b1d-4516-94aa-5f5872c79190"
+    }
+}
+]
